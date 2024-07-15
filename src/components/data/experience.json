@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "role": "Full Stack Developer Trainee",
+        "organisation": "Kodnest Technology",
+        "startDate": "June, 2023",
+        "endDate": "June, 2024",
+        "location": "Bangalore, Karnataka",
+        "experiences": [
+            "Worked as a trainee with developers",
+            "Focus on a bussiness logic in java domain"
+        ],
+        "imageSrc": "company/kodnest.png"
+    }
+]

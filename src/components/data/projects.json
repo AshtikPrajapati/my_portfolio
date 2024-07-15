@@ -1,0 +1,18 @@
+[
+    {
+        "key": 1,
+        "title": "Java TuneHub",
+        "imageSrc": "projects/music.png",
+        "description": "This is music app project made with Java and its framework SpringBoot with Mysql database.",
+        "demo": "",
+        "source": "https://github.com/AshtikPrajapati/tuneHub-demo"
+    },
+    {
+        "key": 2,
+        "title": "News App",
+        "imageSrc": "projects/news.jpg",
+        "description": "This is news app project made with html/css and javascript(Express.js) fatching data from news API.",
+        "demo": "",
+        "source": "https://github.com/AshtikPrajapati/Mini-news-app"
+    }
+]
