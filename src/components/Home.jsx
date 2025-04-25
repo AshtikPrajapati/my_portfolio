@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react'
 import pdf from '../pdf/Resume_2023.pdf'
 import hero from './data/hero.json'
@@ -30,11 +29,9 @@ export default function Home() {
                     data-aos="fade-up-right"
                     data-aos-duration="1000">
 
-                    <h1 ref={typedRef}>
+                    <h1 ref={typedRef}></h1>
 
-                    </h1>
-
-                    <a href={pdf} download="resume.pdf" className="btn my-3" style={{ border: "3px solid #D9B08c", background: "#ffcb9a" }}>Download Resume</a>
+                    <a href={pdf} download="Ashtik_SoftwareDev_resume.pdf" className="btn my-3" style={{ border: "3px solid #D9B08c", background: "#ffcb9a" }}>Download Resume</a>
                 </div>
 
                 <div className="right"
